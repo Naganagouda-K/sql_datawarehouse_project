@@ -79,4 +79,25 @@ This project has a clearly defined scope to maintain focus and simplicity:
 - Centralized and integrated data repository  
 - Clean, consistent, and analysis-ready datasets  
 - Simplified data model for reporting and dashboards  
-- Improved support for business decision-making  
+- Improved support for business decision-making
+
+## 📊 Architecture Diagrams
+
+### 1️⃣ Data Flow Diagram
+
+<img width="940" height="589" alt="image" src="https://github.com/user-attachments/assets/49870a51-ef1c-4f74-a541-f3d399f79833" />
+
+---
+
+### 2️⃣ Integration Model
+
+<img width="940" height="540" alt="image" src="https://github.com/user-attachments/assets/46c45890-2150-43b6-962d-d9f2af69e71d" />
+
+---
+
+### 3️⃣ Sales Data Mart (Star Schema)
+
+<img width="940" height="439" alt="image" src="https://github.com/user-attachments/assets/617955f2-c983-4a10-a6e2-0b6f0f3cd768" />
+
+
+
